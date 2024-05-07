@@ -1,0 +1,41 @@
+[
+  {
+    "numero": 1234567812345678,
+    "nombre": "Juan Perez",
+    "fechaExpiracion": "12/24",
+    "codigoSeguridad": "123",
+    "tipo": "Visa",
+    "limiteCredito": 5000,
+    "saldo": 2500,
+    "estatus": "activa",
+    "historialTransacciones": [
+      {
+        "fecha": "2024-05-03",
+        "descripcion": "Compra en supermercado",
+        "monto": 50.0
+      },
+      {
+        "fecha": "2024-05-02",
+        "descripcion": "Pago de factura de servicios",
+        "monto": 100.0
+      }
+    ]
+  },
+  {
+    "numero": 9876543298765432,
+    "nombre": "Maria Gomez",
+    "fechaExpiracion": "10/23",
+    "codigoSeguridad": "456",
+    "tipo": "MasterCard",
+    "limiteCredito": 10000,
+    "saldo": 7500,
+    "estatus": "bloqueada",
+    "historialTransacciones": [
+      {
+        "fecha": "2024-05-03",
+        "descripcion": "Compra de electrodomesticos",
+        "monto": 200.0
+      }
+    ]
+  }
+]
